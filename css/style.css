@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.logo{
+    height: 150px;
+    margin-bottom: 15px;
+}
+
+.section{
+    width: 80%;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.col-12 p {
+    font-weight: 500;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row{
+    background-color: lightgoldenrodyellow;
+    height: 250px;
+    width: 500px;
+    text-align: center;
+    border: 1px solid black;
+}
